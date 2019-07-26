@@ -1,0 +1,21 @@
+﻿<Window x:Class="ChatBotServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChatBotServer"
+        mc:Ignorable="d"
+        Title="Chatbot Server" Height="Auto" Width="731.622" SizeToContent="WidthAndHeight" >
+    <Grid>
+        <Label x:Name="lblDisplay" Content="Server is not running" HorizontalAlignment="Left" Margin="311,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.188,-0.709"/>
+        <Label x:Name="lblReceived" Content="Chat messages" HorizontalAlignment="Left" Margin="311,74,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.317,0.454"/>
+        <TextBox x:Name="txtReceived" HorizontalAlignment="Left" Height="170" Margin="211,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="316" RenderTransformOrigin="0.163,0.69" IsReadOnly="True"/>
+        <Button x:Name="btnRunServer" Content="Run Server" HorizontalAlignment="Left" Margin="226,42,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.501,1.063" Click="OnRunServerClickAsync"/>
+        <Button x:Name="btnStopServer" Content="Stop Server" HorizontalAlignment="Left" Margin="422,41,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.501,1.063" Click="OnStopServerClick"/>
+        <TextBox x:Name="txtMessage" HorizontalAlignment="Left" Height="43" Margin="263,290,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="202" RenderTransformOrigin="0.527,-0.398" TextChanged="OnTextMessageChange"/>
+        <Button x:Name="btnSend" Content="Send" HorizontalAlignment="Left" Margin="342,347,0,0" VerticalAlignment="Top" Width="58" Click="OnSendClick"/>
+        <Label x:Name="lblSentMessage" Content="Last send message : " HorizontalAlignment="Left" Margin="313,384,0,0" VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Window>
