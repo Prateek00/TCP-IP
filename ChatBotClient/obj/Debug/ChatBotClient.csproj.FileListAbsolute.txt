@@ -1,0 +1,15 @@
+D:\Prateek Verma\GIT\GIT-WD\Prateek_Training\Prateek_Training\ChatBotClient\obj\Debug\ChatBotClient.csprojAssemblyReference.cache
+D:\Prateek Verma\GIT\GIT-WD\Prateek_Training\Prateek_Training\ChatBotClient\obj\Debug\MainWindow.g.cs
+D:\Prateek Verma\GIT\GIT-WD\Prateek_Training\Prateek_Training\ChatBotClient\obj\Debug\App.g.cs
+D:\Prateek Verma\GIT\GIT-WD\Prateek_Training\Prateek_Training\ChatBotClient\obj\Debug\ChatBotClient_MarkupCompile.cache
+D:\Prateek Verma\GIT\GIT-WD\Prateek_Training\Prateek_Training\ChatBotClient\obj\Debug\ChatBotClient_MarkupCompile.lref
+D:\Prateek Verma\GIT\GIT-WD\Prateek_Training\Prateek_Training\ChatBotClient\bin\Debug\ChatBotClient.exe.config
+D:\Prateek Verma\GIT\GIT-WD\Prateek_Training\Prateek_Training\ChatBotClient\bin\Debug\ChatBotClient.exe
+D:\Prateek Verma\GIT\GIT-WD\Prateek_Training\Prateek_Training\ChatBotClient\bin\Debug\ChatBotClient.pdb
+D:\Prateek Verma\GIT\GIT-WD\Prateek_Training\Prateek_Training\ChatBotClient\obj\Debug\MainWindow.baml
+D:\Prateek Verma\GIT\GIT-WD\Prateek_Training\Prateek_Training\ChatBotClient\obj\Debug\ChatBotClient.g.resources
+D:\Prateek Verma\GIT\GIT-WD\Prateek_Training\Prateek_Training\ChatBotClient\obj\Debug\ChatBotClient.Properties.Resources.resources
+D:\Prateek Verma\GIT\GIT-WD\Prateek_Training\Prateek_Training\ChatBotClient\obj\Debug\ChatBotClient.csproj.GenerateResource.cache
+D:\Prateek Verma\GIT\GIT-WD\Prateek_Training\Prateek_Training\ChatBotClient\obj\Debug\ChatBotClient.csproj.CoreCompileInputs.cache
+D:\Prateek Verma\GIT\GIT-WD\Prateek_Training\Prateek_Training\ChatBotClient\obj\Debug\ChatBotClient.exe
+D:\Prateek Verma\GIT\GIT-WD\Prateek_Training\Prateek_Training\ChatBotClient\obj\Debug\ChatBotClient.pdb
